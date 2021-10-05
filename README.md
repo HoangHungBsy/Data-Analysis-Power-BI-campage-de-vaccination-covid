@@ -1,7 +1,7 @@
 # Data-Analysis-Power-BI-campage-de-vaccination-covid
 Objectif
 
-* L'objectif de cette étude de cas est de suivre les principales étapes d'un projet d'analyse de données.
+* L'objectif de cette étude de cas est de suivre les principales étapes d'un projet d'analyse de données par Power BI.
 * Compréhension des données
 * Processus d'importation et de nettoyage des données
 * Créer une relation
